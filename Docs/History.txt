@@ -1,4 +1,4 @@
-MenuMeters 1.4.1
+MenuMeters LionFork
 * [FEATURE] Lion compatibility (no PPC, 10.4, 10.5 support).
 * [BUG] Builds correctly in XCode 4.2.
 

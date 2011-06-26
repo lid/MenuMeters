@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>MenuMeters</string>
 	<key>CFBundleGetInfoString</key>
-	<string>MenuMeters 1.4.1, © 2002-2010 Alex Harper</string>
+	<string>MenuMeters LionFork, © 2002-2010 Alex Harper</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.ragingmenace.MenuMeters</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>MenuMeters 1.4.1</string>
+	<string>MenuMeters LionFork</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.4.1</string>
+	<string>LionFork</string>
 	<key>NSMainNibFile</key>
 	<string>MenuMetersPref</string>
 	<key>NSPrefPaneIconFile</key>
